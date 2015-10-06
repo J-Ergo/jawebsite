@@ -1,0 +1,59 @@
+h1 {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: grey;
+  margin-top: 10px;
+}
+
+.work {
+   display: inline-block;
+   width: 500px;
+   padding: 10px;
+   height: 300px;
+   border-radius: 12px;
+ }
+
+ section {
+   text-align: center;
+   border-width: 5px;
+   width: 95%;
+   margin: 5px 5px 5px 5px;
+   padding: 5px 5px 5px 5px;
+ }
+
+ .posts {
+  text-align: center;
+ }
+
+ .jesus {
+   height: 14%;
+   width: 14%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 100%;
+ }
+
+ hr {
+  width: 100%;
+  color: grey;
+  margin-top: 1%;
+  margin-bottom: 1%;
+
+ }
+
+.icon {
+  width: 25px;
+  height: 25px;
+}
+
+body {
+  background-color: #F5F8FA;
+}
+
+
+
+
+
+
