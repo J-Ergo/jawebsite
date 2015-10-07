@@ -130,14 +130,21 @@ body {
   .work {
     height: inherit;
     width: 320px;
+    margin-left: -10px;
   }
   .imgWrap {
     height: inherit;
     width: 320px;
+    margin-left: -10px;
   }
 
   .icon {
     margin-left: 23px;
+  }
+
+  .imgWrap:hover .shadow {
+  margin-left: 0px;
+  height: 88%;
   }
 
 }
