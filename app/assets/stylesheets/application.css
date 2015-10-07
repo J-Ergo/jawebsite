@@ -128,12 +128,12 @@ body {
 @media (max-width: 500px){
   .work {
     height: inherit;
-    width: 320px;
-    margin-left: -10px;
+    width: 340px;
+    margin-left: 0px;
   }
   .imgWrap {
     height: inherit;
-    width: 320px;
+    width: 340px;
     margin-left: -10px;
   }
 
@@ -142,12 +142,13 @@ body {
   }
 
   .imgWrap:hover .shadow {
-  margin-left: 0px;
-  height: 88%;
+  margin-left: 10px;
+  height: 89%;
+  width: 340px;
   }
 
   hr {
-    margin-left: 23px;
+    margin-left: 30px;
   }
 
   .jesus {
