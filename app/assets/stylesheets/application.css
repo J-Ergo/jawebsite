@@ -93,7 +93,7 @@ margin-top: 10px;
 
  hr {
   display: block;
-  width: 75%;
+  width: 74%;
   background-color: grey;
   margin-top: 1%;
   margin-bottom: 1%;
@@ -145,6 +145,10 @@ body {
   .imgWrap:hover .shadow {
   margin-left: 0px;
   height: 88%;
+  }
+
+  hr {
+    margin-left: 23px;
   }
 
 }
