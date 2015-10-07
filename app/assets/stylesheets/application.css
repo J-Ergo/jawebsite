@@ -83,7 +83,6 @@ margin-top: 10px;
  }
 
  .jesus {
-   height: 14%;
    width: 14%;
    display: block;
    margin-left: auto;
@@ -149,6 +148,10 @@ body {
 
   hr {
     margin-left: 23px;
+  }
+
+  .jesus {
+   width: 20%;
   }
 
 }
