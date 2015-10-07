@@ -129,11 +129,11 @@ body {
 @media (max-width: 500px){
   .work {
     height: inherit;
-    width: 350px;
+    width: 320px;
   }
   .imgWrap {
     height: inherit;
-    width: 350px;
+    width: 320px;
   }
 }
 
