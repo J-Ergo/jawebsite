@@ -135,6 +135,11 @@ body {
     height: inherit;
     width: 320px;
   }
+
+  .icon {
+    margin-left: 23px;
+  }
+
 }
 
 
