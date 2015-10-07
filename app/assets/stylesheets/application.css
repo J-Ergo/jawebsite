@@ -92,13 +92,20 @@ margin-top: 10px;
  }
 
  hr {
-  width: 1024px;
+  display: block;
+  width: 75%;
   background-color: grey;
   margin-top: 1%;
   margin-bottom: 1%;
   height: 2px;
 
  }
+
+ .line {
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
 
 .icon {
     width: 25px;
@@ -117,11 +124,6 @@ margin-top: 10px;
 
 body {
   background-color: #FFFFFF;
-}
-
-.line {
-  margin-left: 20px;
-  margin-bottom: 25px;
 }
 
 
